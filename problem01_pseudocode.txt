@@ -1,0 +1,9 @@
+flowchart TD
+    A[Auditorium] -->B(Seat_1)
+    A[Auditorium] -->C(Seat_2)
+    B -->Seat_3
+    C -->Seat_4
+    Seat_3 -->Seat_5
+    Seat_4 -->Seat_6
+    Seat_5 -->Seat_7
+    Seat_6 -->Seat_8

@@ -1,0 +1,7 @@
+Problem 3: Jeepney Fare Computation
+
+Step 1: Start
+Step 2: Ask for the rate per kilometer
+Step 3: Ask for the distance traveled
+Step 4: Ask for the computes the total fare
+Step 5: Displays the result

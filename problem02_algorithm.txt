@@ -1,0 +1,6 @@
+Problem 2: Fence Around a Lot
+
+Step 1: Start
+Step 2: Ask for the length of one side
+Step 3: Ask for the computes the perimeter
+Step 4: Displays the result
