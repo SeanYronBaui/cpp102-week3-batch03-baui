@@ -1,7 +1,0 @@
-PROBLEM 1: Auditorium Seat Count
-
-Step 1: Start
-Step 2: Ask the number of rows
-Step 3: Ask the number of columns
-Step 4: Ask the total number of seats
-Step 5: Displays the result
